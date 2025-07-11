@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Stutityagi-18
-- 🌱 I’m currently learning data structures in C
-- 💞️ I’m looking to collaborate on projects to gain hands-on-experience.
+- 👋 Hi, I’m @Stutityagi
 - 😄 Pronouns: SHE/HER
 
 <!---
